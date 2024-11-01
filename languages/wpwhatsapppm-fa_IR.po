@@ -1,0 +1,493 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wallmessage\n"
+"POT-Creation-Date: 2022-03-08 00:32+0330\n"
+"PO-Revision-Date: 2022-03-08 00:42+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wallmessage.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin/class-kwm-outbox.php:47
+#, php-format
+msgid "%s <span class=\"wpsms-time\">Time: %s</span>"
+msgstr ""
+
+#: inc/admin/class-kwm-outbox.php:58
+msgid "Success"
+msgstr "موفق"
+
+#: inc/admin/class-kwm-outbox.php:60
+msgid "Fail"
+msgstr "ناموفق"
+
+#: inc/admin/class-kwm-outbox.php:120
+msgid "Sender"
+msgstr "ارسال پیام"
+
+#: inc/admin/class-kwm-outbox.php:121
+msgid "Date"
+msgstr "تاریخ"
+
+#: inc/admin/class-kwm-outbox.php:122 tpl/send-pm.php:67
+msgid "Message"
+msgstr "متن پیام"
+
+#: inc/admin/class-kwm-outbox.php:123
+msgid "Recipient"
+msgstr "گیرنده"
+
+#: inc/admin/class-kwm-outbox.php:126
+msgid "Status"
+msgstr "وضعیت"
+
+#: inc/admin/class-kwm-outbox.php:173
+msgid "Items removed."
+msgstr "آیتم ها حذف شدند."
+
+#: inc/admin/class-kwm-outbox.php:182
+msgid "Item removed."
+msgstr "آیتم حذف شد."
+
+#: inc/admin/class-kwm-outbox.php:198
+msgid "The PM sent successfully."
+msgstr "پیام با موفقیت ارسال شد."
+
+#: inc/admin/class-kwm-outbox.php:343
+msgid "Outbox PM"
+msgstr "پیام های خروجی"
+
+#. Plugin Name of the plugin/theme
+#: inc/admin/kwm_admin.php:89 inc/admin/kwm_admin.php:101 tpl/header.php:6
+msgid "Wallmessage"
+msgstr "وال مسیج"
+
+#: inc/admin/kwm_admin.php:102 inc/admin/kwm_settings.php:136
+#: inc/admin/kwm_settings.php:262 inc/admin/kwm_settings.php:297
+#: inc/admin/kwm_settings.php:335 inc/admin/kwm_settings.php:365
+#: inc/admin/kwm_settings.php:394 tpl/send-pm.php:79
+msgid "Send PM"
+msgstr "ارسال پیام"
+
+#: inc/admin/kwm_admin.php:103
+msgid "Outbox"
+msgstr "پیام های خروجی"
+
+#: inc/admin/kwm_send_pm.php:84
+msgid ""
+"The selected user list is empty, please select another valid users list from "
+"send to option."
+msgstr ""
+"لیست کاربر انتخاب شده خالی است، لطفا یک لیست کاربر دیگر برای ارسال پیام "
+"انتخاب کنید."
+
+#: inc/admin/kwm_send_pm.php:90
+msgid "Please enter your PM message."
+msgstr "لطفا پیام خود را ارسال کنید."
+
+#: inc/admin/kwm_send_pm.php:116 inc/admin/kwm_send_pm.php:123
+#, php-format
+msgid "<strong>Error!</br> WallMessage response:</strong><br> %s"
+msgstr "<strong>خطا!</br> پاسخ های وال مسیج :</strong><br> %s"
+
+#: inc/admin/kwm_send_pm.php:119
+#, php-format
+msgid ""
+"<strong>The PM sent successfully!</br> WallMessage response:</strong><br>  %s"
+msgstr ""
+"<strong>پیام با موفقیت ارسال شد!</br> پاسخ های وال مسیج :</strong><br>  %s"
+
+#: inc/admin/kwm_settings.php:57
+msgid "Configs"
+msgstr "تنظیمات"
+
+#: inc/admin/kwm_settings.php:133
+msgid "General Config"
+msgstr "تنظیمات عمومی"
+
+#: inc/admin/kwm_settings.php:134
+#, fuzzy
+#| msgid "WallMessage Api configuration"
+msgid "WallMessage Api Config"
+msgstr "تنظیمات Api وال مسیج"
+
+#: inc/admin/kwm_settings.php:135
+msgid "WooCommerce Config"
+msgstr "تنظیمات ووکامرس"
+
+#: inc/admin/kwm_settings.php:201
+msgid "API test result: "
+msgstr "نتیجه تست API"
+
+#: inc/admin/kwm_settings.php:205
+msgid "Settings updated"
+msgstr "تنظیمات بروز شد"
+
+#: inc/admin/kwm_settings.php:218
+msgid "Enable"
+msgstr "فعال"
+
+#: inc/admin/kwm_settings.php:219
+msgid "Disable"
+msgstr "غیرفعال"
+
+#: inc/admin/kwm_settings.php:228 inc/admin/kwm_settings.php:434
+msgid "General"
+msgstr "عمومی"
+
+#: inc/admin/kwm_settings.php:233
+msgid "Choose the mobile field"
+msgstr "فیلد موبایل را انتخاب کنید"
+
+#: inc/admin/kwm_settings.php:236
+msgid "Disable (No field)"
+msgstr "غیرفعال(عدم نمایش فیلد)"
+
+#: inc/admin/kwm_settings.php:237
+msgid "Add a new field in the checkout form"
+msgstr "یک فیلد جدید در فرم تسویه حساب اضافه کنید"
+
+#: inc/admin/kwm_settings.php:238
+msgid "Use the current phone field in the bill"
+msgstr "فیلد تلفن کنونی را در صورت حساب استفاده کنید"
+
+#: inc/admin/kwm_settings.php:240
+msgid "Choose from which field you get numbers for sending PM."
+msgstr "فیلد شماره ی مورد نظر برای ارسال پیام را انتخاب کنید."
+
+#: inc/admin/kwm_settings.php:244
+msgid "Mobile field title"
+msgstr "عنوان فیلد موبایل"
+
+#: inc/admin/kwm_settings.php:246 inc/admin/kwm_settings.php:252
+msgid "In `Add a new field in the checkout form` mode title will be use."
+msgstr "یک فیلد جدید در فرم تسویه حساب اضافه کنید."
+
+#: inc/admin/kwm_settings.php:250
+msgid "Mobile field placeholder"
+msgstr "متن نمایشی فیلد موبایل"
+
+#: inc/admin/kwm_settings.php:257
+msgid "Notify for new product"
+msgstr "ارسال پیام برای محصول جدید"
+
+#: inc/admin/kwm_settings.php:265
+msgid "Send PM when publish new a product"
+msgstr "ارسال پیام در زمان انتشار یک محصول جدید"
+
+#: inc/admin/kwm_settings.php:269 inc/admin/kwm_settings.php:304
+#: inc/admin/kwm_settings.php:372
+msgid "PM receiver"
+msgstr "گیرنده پیام"
+
+#: inc/admin/kwm_settings.php:272
+msgid "Customers (Users)"
+msgstr "مشتریان (کاربران)"
+
+#: inc/admin/kwm_settings.php:274
+msgid "Please select the receiver of PM"
+msgstr "لطفا گیرنده ی پیام را انتخاب کنید"
+
+#: inc/admin/kwm_settings.php:279 inc/admin/kwm_settings.php:310
+#: inc/admin/kwm_settings.php:342 inc/admin/kwm_settings.php:378
+#: inc/admin/kwm_settings.php:401
+msgid "Message body"
+msgstr "متن پیام"
+
+#: inc/admin/kwm_settings.php:281 inc/admin/kwm_settings.php:312
+#: inc/admin/kwm_settings.php:344 inc/admin/kwm_settings.php:380
+#: inc/admin/kwm_settings.php:403
+msgid "Enter the contents of the PM message."
+msgstr "متن پیام را وارد کنید."
+
+#: inc/admin/kwm_settings.php:283
+#, php-format
+msgid "Product title: %s, Product url: %s, Product date: %s, Product price: %s"
+msgstr "عنوان محصول : %s, url محصول : %s,زمان محصول : %s, قیمت محصول : %s"
+
+#: inc/admin/kwm_settings.php:292
+msgid "Notify for new order"
+msgstr "پیغام پس از ثبت سفارش جدید"
+
+#: inc/admin/kwm_settings.php:300
+msgid "Send PM when submit new order"
+msgstr "دریافت پیام بعد از ثبت سفارش جدید"
+
+#: inc/admin/kwm_settings.php:306 inc/admin/kwm_settings.php:374
+msgid ""
+"Please enter mobile number for get PM. You can separate the numbers with the "
+"Latin comma."
+msgstr ""
+"لطفا برای دریافت پیام شماره تماس خود را  وارد کنید.شما می­توانید شماره ها را "
+"با کامای انگلیسی از هم جدا کنید."
+
+#: inc/admin/kwm_settings.php:314
+#, php-format
+msgid ""
+"Billing First Name: %s,Billing Last Name: %s, Billing Company: %s, Billing "
+"Address: %s, Billing Phone Number: %s, Order ID: %s, Order number: %s, Order "
+"Total: %s, Order edit URL: %s, Order Items: %s, Order status: %s"
+msgstr ""
+"نام کوچک صورت حساب :%s,نام خانوادگی صورت حساب :%s, شرکت صورت حساب : %s, آدرس "
+"صورت حساب : %s, شماره تماس صورت حساب :%s, شناسه ی سفارش : %s, شماره سفارش :"
+"%s, سفارش کل: %s, URLویرایش سفارش %s, آیتم های سفارش :%s, وضعیت سفارش :%s"
+
+#: inc/admin/kwm_settings.php:330
+msgid "Notify to customer order"
+msgstr "پیغام به سفارش مشتری"
+
+#: inc/admin/kwm_settings.php:338
+msgid "Send PM to customer when submit the order"
+msgstr "ارسال پیام برای مشتری پس از ثبت سفارش"
+
+#: inc/admin/kwm_settings.php:346
+#, php-format
+msgid ""
+"Order ID: %s, Order number: %s, Order status: %s, Order Items: %s, Order "
+"Total: %s, Customer name: %s, Customer family: %s, Order view URL: %s, Order "
+"payment URL: %s"
+msgstr ""
+"شناسه ی سفارش : %s, شماره سفارش :%s, وضعیت سفارش :%s, آیتم های سفارش : %s, "
+"سفارش کل: %s, نام مشتری%s, نام خانوادگی مشتری %s, URL صفحه سفارش %s, "
+"URLپرداخت سفارش %s"
+
+#: inc/admin/kwm_settings.php:360
+msgid "Notify of stock"
+msgstr "پیغام موجودی"
+
+#: inc/admin/kwm_settings.php:368
+msgid "Send PM when stock is low"
+msgstr "ارسال پیام در زمان کمبود موجودی"
+
+#: inc/admin/kwm_settings.php:382
+#, php-format
+msgid "Product ID: %s, Product name: %s"
+msgstr "شناسه ی محصول%s, نام محصول : %s"
+
+#: inc/admin/kwm_settings.php:389
+msgid "Notify of status"
+msgstr "پیغام وضعیت"
+
+#: inc/admin/kwm_settings.php:397
+msgid "Send PM to customer when status is changed"
+msgstr "ارسال پیام به مشتری در زمان تغییر وضعیت"
+
+#: inc/admin/kwm_settings.php:405
+#, php-format
+msgid ""
+"Order status: %s, Order number: %s, Customer name: %s, Customer family: %s, "
+"Order view URL: %s, Order payment URL: %s"
+msgstr ""
+"وضعیت سفارش : %s, شماره ی سفارش : %s, شماره ی مشتری : %s, نام خانوادگی "
+"مشتری : %s, URL نمایش سفارش :%s, URL پرداخت سفارش : %s"
+
+#: inc/admin/kwm_settings.php:419
+msgid "WooCommerce is Not active"
+msgstr "ووکامرس غیر فعال است"
+
+#: inc/admin/kwm_settings.php:421
+msgid "WooCommerce should be installed and activated to run this tab."
+msgstr "برای اجرای صفحه ووکامرس باید نصب و فعال شود."
+
+#: inc/admin/kwm_settings.php:439
+msgid "Admin mobile number"
+msgstr "شماره تماس مدیر"
+
+#: inc/admin/kwm_settings.php:441
+msgid "Admin mobile number for get any PM notifications"
+msgstr "شماره تماس مدیر برای دریافت هرگونه پیام"
+
+#: inc/admin/kwm_settings.php:445
+msgid "Mobile country code"
+msgstr "کد کشور شماره تماس"
+
+#: inc/admin/kwm_settings.php:447
+msgid ""
+"Enter your mobile country code for prefix numbers.<br> For example if you "
+"enter +98 The final number will be +989123456789"
+msgstr ""
+"کد پیش شماره خود را برای کشور خود وارد نمایید.<br>رای مثال اگر شما +98 را "
+"وارد می کنید شماره نهایی شما +989123456789 خواهد بود"
+
+#: inc/admin/kwm_settings.php:458
+msgid "WallMessage Api configuration"
+msgstr "تنظیمات Api وال مسیج"
+
+#: inc/admin/kwm_settings.php:463
+msgid "WallMessage Api description"
+msgstr "توضیحات Api وال مسیج"
+
+#: inc/admin/kwm_settings.php:470
+msgid " Api key"
+msgstr " توکن api"
+
+#: inc/admin/kwm_settings.php:472
+msgid "Enter API key of WallMessage"
+msgstr "کلید API برای وال مسیج را وارد کنید"
+
+#: inc/admin/kwm_settings.php:476
+msgid " Api URL"
+msgstr " Api URL"
+
+#: inc/admin/kwm_settings.php:478
+msgid "Enter API URL of WallMessage"
+msgstr "URL Api را از وال مسیج وارد نمایید"
+
+#: inc/admin/kwm_settings.php:482
+msgid "Test Connectivity"
+msgstr "تست برقراری اتصال "
+
+#: inc/admin/kwm_settings.php:531
+msgid "Active"
+msgstr "فعال"
+
+#: inc/admin/kwm_settings.php:779
+msgid "Upload File"
+msgstr "آپلود فایل"
+
+#: inc/admin/kwm_settings.php:824
+msgid "Setting Wallmessage API is mandatory!"
+msgstr "تنظیمات API وال مسیج اجباری است!"
+
+#: inc/admin/kwm_settings.php:896
+msgid "EXP Date: "
+msgstr "تاریخ انقضا:"
+
+#: inc/admin/kwm_settings.php:899
+msgid "Unspecified Error in Responce."
+msgstr "خطای ناشناخته در رخ داده."
+
+#: inc/admin/kwm_settings.php:903
+msgid "Unspecified Error in Responce!"
+msgstr "خطای ناشناخته رخ داده!"
+
+#: inc/admin/kwm_settings.php:910
+msgid "Unspecified Error!"
+msgstr "خطای ناشناخته!"
+
+#: inc/admin/kwm_settings.php:919
+msgid "Unspecified Error."
+msgstr "خطای ناشناخته."
+
+#: inc/class-kwm-woocommerce.php:62
+msgid "Mobile Number"
+msgstr "شماره تماس"
+
+#: inc/class-kwm-woocommerce.php:63
+msgid "mobile number to get order status in Watsapp"
+msgstr "شماره موبایل برای دریافت وضعیت سفارش در پیام رسان واتس اپ"
+
+#: inc/class-kwm-woocommerce.php:77
+msgid "Please enter mobile number."
+msgstr "لطفا شماره گیرنده را وارد کنید."
+
+#: inc/class_kwm_Sender.php:58
+msgid "Great Documentation avaible in our website."
+msgstr "مستندات در دسترس را در وب سایت ایجاد کنید."
+
+#: inc/class_kwm_Sender.php:238
+#, php-format
+msgid "%s <a href=\"%s\" target=\"_blank\">Documentation</a>"
+msgstr "%s <a href=\"%s\" target=\"_blank\">مستندات </a>"
+
+#: inc/class_kwm_send_wallmessage.php:25
+msgid ""
+"The phone number must contain only digits together. It should not contain "
+"any other symbols such as (+) sign.  Instead  of  plus  sign,  please  put  "
+"(00)"
+msgstr ""
+"شماره تلفن باید فقط شامل ارقام با هم باشد. نباید دارای هیچ علامت دیگری مانند "
+"علامت (+) باشد.لطفا به جای علامت مثبت، (00) را وارد کنید."
+
+#: inc/class_kwm_send_wallmessage.php:32
+msgid ""
+"API Config Not Set! First go to Wallmessage > Configs > WallMessage API tab, "
+"and configure WallMessage API key and API url."
+msgstr ""
+"تنظیمات مربوط به API ست نشده است. لطفا ابتدا از مسیر: وال مسیج< تنظیمات < تب "
+"تنظیمات API وال مسیج تنظیمات مربوطه را انجام دهید."
+
+#: tpl/error.php:7
+#, php-format
+msgid ""
+"Set WallMessage API configuration first!<a href=\"%sadmin.php?"
+"page=wallmessage-configs&tab=wallmessageapi\"><span>Click Here!</span></a>"
+msgstr ""
+"Set WallMesلطفا ابتدا تنظیمات مربوط به API را انجام دهید.!<a href=\"%sadmin."
+"php?page=wallmessage-configs&tab=wallmessageapi\"><span>برا رفتن به صفحه "
+"تنظیمات اینجا را کلیک کنید</span></a>"
+
+#: tpl/header.php:5
+msgid "Welcome to"
+msgstr "خوش آمدید"
+
+#: tpl/header.php:7
+msgid "Advanced plugin to intergrate Whatsapp API and Woocommerce"
+msgstr ""
+
+#: tpl/left-menu.php:20
+msgid "Documentation"
+msgstr "مستندات"
+
+#: tpl/left-menu.php:21
+msgid "Plugin website"
+msgstr "وب سایت افزونه"
+
+#: tpl/outbox.php:8
+msgid "Search"
+msgstr "جستجو"
+
+#: tpl/send-pm.php:42
+msgid "Number(s)"
+msgstr "شماره گیرندگان"
+
+#: tpl/send-pm.php:44
+msgid "WooCommerce's Customers"
+msgstr "مشتریان ووکامرس"
+
+#: tpl/send-pm.php:50
+#, php-format
+msgid "<b>%s</b> Customers have the mobile number."
+msgstr "<b>%s</b> مشتری ها باید شماره تلفن داشته باشند."
+
+#: tpl/send-pm.php:57
+msgid "Separate the numbers with comma (,) or enter in each lines."
+msgstr "شماره ها را با کاما (،) یا enter در هر خط جدا کنید."
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wallmessage.com"
+msgstr "https://wallmessage.com"
+
+#. Description of the plugin/theme
+msgid "some description should go here. @TODO: Plugin description"
+msgstr "برخی از توضیحات باید در این قسمت وارد شوند . @TODO: Plugin description"
+
+#. Author of the plugin/theme
+msgid "wallmessage Group"
+msgstr "گروه وال مسیج"
+
+#~ msgid "WallMessage Api"
+#~ msgstr "API وال مسیج"
+
+#~ msgid "Settings"
+#~ msgstr "تنظیمات"
+
+#~ msgid "Enter your mobile number to get any notifications about your order"
+#~ msgstr "شماره تماس خود را برای دریافت هرگونه پیغام از سفارش وارد نمایید"
+
+#~ msgid "نسخه غیرقابل ارائه(پیش نمایش0.1)"
+#~ msgstr "نسخه غیرقابل ارائه(پیش نمایش0.1)"

@@ -1,0 +1,457 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Wallmessage\n"
+"POT-Creation-Date: 2022-03-08 00:31+0330\n"
+"PO-Revision-Date: 2022-02-05 09:44+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wallmessage.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin/class-kwm-outbox.php:47
+#, php-format
+msgid "%s <span class=\"wpsms-time\">Time: %s</span>"
+msgstr ""
+
+#: inc/admin/class-kwm-outbox.php:58
+msgid "Success"
+msgstr ""
+
+#: inc/admin/class-kwm-outbox.php:60
+msgid "Fail"
+msgstr ""
+
+#: inc/admin/class-kwm-outbox.php:120
+msgid "Sender"
+msgstr ""
+
+#: inc/admin/class-kwm-outbox.php:121
+msgid "Date"
+msgstr ""
+
+#: inc/admin/class-kwm-outbox.php:122 tpl/send-pm.php:67
+msgid "Message"
+msgstr ""
+
+#: inc/admin/class-kwm-outbox.php:123
+msgid "Recipient"
+msgstr ""
+
+#: inc/admin/class-kwm-outbox.php:126
+msgid "Status"
+msgstr ""
+
+#: inc/admin/class-kwm-outbox.php:173
+msgid "Items removed."
+msgstr ""
+
+#: inc/admin/class-kwm-outbox.php:182
+msgid "Item removed."
+msgstr ""
+
+#: inc/admin/class-kwm-outbox.php:198
+msgid "The PM sent successfully."
+msgstr ""
+
+#: inc/admin/class-kwm-outbox.php:343
+msgid "Outbox PM"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: inc/admin/kwm_admin.php:89 inc/admin/kwm_admin.php:101 tpl/header.php:6
+msgid "Wallmessage"
+msgstr ""
+
+#: inc/admin/kwm_admin.php:102 inc/admin/kwm_settings.php:136
+#: inc/admin/kwm_settings.php:262 inc/admin/kwm_settings.php:297
+#: inc/admin/kwm_settings.php:335 inc/admin/kwm_settings.php:365
+#: inc/admin/kwm_settings.php:394 tpl/send-pm.php:79
+msgid "Send PM"
+msgstr ""
+
+#: inc/admin/kwm_admin.php:103
+msgid "Outbox"
+msgstr ""
+
+#: inc/admin/kwm_send_pm.php:84
+msgid ""
+"The selected user list is empty, please select another valid users list from "
+"send to option."
+msgstr ""
+
+#: inc/admin/kwm_send_pm.php:90
+msgid "Please enter your PM message."
+msgstr ""
+
+#: inc/admin/kwm_send_pm.php:116 inc/admin/kwm_send_pm.php:123
+#, php-format
+msgid "<strong>Error!</br> WallMessage response:</strong><br> %s"
+msgstr ""
+
+#: inc/admin/kwm_send_pm.php:119
+#, php-format
+msgid ""
+"<strong>The PM sent successfully!</br> WallMessage response:</strong><br>  %s"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:57
+msgid "Configs"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:133
+msgid "General Config"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:134
+msgid "WallMessage Api Config"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:135
+msgid "WooCommerce Config"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:201
+msgid "API test result: "
+msgstr ""
+
+#: inc/admin/kwm_settings.php:205
+msgid "Settings updated"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:218
+msgid "Enable"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:219
+msgid "Disable"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:228 inc/admin/kwm_settings.php:434
+msgid "General"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:233
+msgid "Choose the mobile field"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:236
+msgid "Disable (No field)"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:237
+msgid "Add a new field in the checkout form"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:238
+msgid "Use the current phone field in the bill"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:240
+msgid "Choose from which field you get numbers for sending PM."
+msgstr ""
+
+#: inc/admin/kwm_settings.php:244
+msgid "Mobile field title"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:246 inc/admin/kwm_settings.php:252
+msgid "In `Add a new field in the checkout form` mode title will be use."
+msgstr ""
+
+#: inc/admin/kwm_settings.php:250
+msgid "Mobile field placeholder"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:257
+msgid "Notify for new product"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:265
+msgid "Send PM when publish new a product"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:269 inc/admin/kwm_settings.php:304
+#: inc/admin/kwm_settings.php:372
+msgid "PM receiver"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:272
+msgid "Customers (Users)"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:274
+msgid "Please select the receiver of PM"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:279 inc/admin/kwm_settings.php:310
+#: inc/admin/kwm_settings.php:342 inc/admin/kwm_settings.php:378
+#: inc/admin/kwm_settings.php:401
+msgid "Message body"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:281 inc/admin/kwm_settings.php:312
+#: inc/admin/kwm_settings.php:344 inc/admin/kwm_settings.php:380
+#: inc/admin/kwm_settings.php:403
+msgid "Enter the contents of the PM message."
+msgstr ""
+
+#: inc/admin/kwm_settings.php:283
+#, php-format
+msgid "Product title: %s, Product url: %s, Product date: %s, Product price: %s"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:292
+msgid "Notify for new order"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:300
+msgid "Send PM when submit new order"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:306 inc/admin/kwm_settings.php:374
+msgid ""
+"Please enter mobile number for get PM. You can separate the numbers with the "
+"Latin comma."
+msgstr ""
+
+#: inc/admin/kwm_settings.php:314
+#, php-format
+msgid ""
+"Billing First Name: %s,Billing Last Name: %s, Billing Company: %s, Billing "
+"Address: %s, Billing Phone Number: %s, Order ID: %s, Order number: %s, Order "
+"Total: %s, Order edit URL: %s, Order Items: %s, Order status: %s"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:330
+msgid "Notify to customer order"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:338
+msgid "Send PM to customer when submit the order"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:346
+#, php-format
+msgid ""
+"Order ID: %s, Order number: %s, Order status: %s, Order Items: %s, Order "
+"Total: %s, Customer name: %s, Customer family: %s, Order view URL: %s, Order "
+"payment URL: %s"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:360
+msgid "Notify of stock"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:368
+msgid "Send PM when stock is low"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:382
+#, php-format
+msgid "Product ID: %s, Product name: %s"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:389
+msgid "Notify of status"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:397
+msgid "Send PM to customer when status is changed"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:405
+#, php-format
+msgid ""
+"Order status: %s, Order number: %s, Customer name: %s, Customer family: %s, "
+"Order view URL: %s, Order payment URL: %s"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:419
+msgid "WooCommerce is Not active"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:421
+msgid "WooCommerce should be installed and activated to run this tab."
+msgstr ""
+
+#: inc/admin/kwm_settings.php:439
+msgid "Admin mobile number"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:441
+msgid "Admin mobile number for get any PM notifications"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:445
+msgid "Mobile country code"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:447
+msgid ""
+"Enter your mobile country code for prefix numbers.<br> For example if you "
+"enter +98 The final number will be +989123456789"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:458
+msgid "WallMessage Api configuration"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:463
+msgid "WallMessage Api description"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:470
+msgid " Api key"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:472
+msgid "Enter API key of WallMessage"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:476
+msgid " Api URL"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:478
+msgid "Enter API URL of WallMessage"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:482
+msgid "Test Connectivity"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:531
+msgid "Active"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:779
+msgid "Upload File"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:824
+msgid "Setting Wallmessage API is mandatory!"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:896
+msgid "EXP Date: "
+msgstr ""
+
+#: inc/admin/kwm_settings.php:899
+msgid "Unspecified Error in Responce."
+msgstr ""
+
+#: inc/admin/kwm_settings.php:903
+msgid "Unspecified Error in Responce!"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:910
+msgid "Unspecified Error!"
+msgstr ""
+
+#: inc/admin/kwm_settings.php:919
+msgid "Unspecified Error."
+msgstr ""
+
+#: inc/class-kwm-woocommerce.php:62
+msgid "Mobile Number"
+msgstr ""
+
+#: inc/class-kwm-woocommerce.php:63
+msgid "mobile number to get order status in Watsapp"
+msgstr ""
+
+#: inc/class-kwm-woocommerce.php:77
+msgid "Please enter mobile number."
+msgstr ""
+
+#: inc/class_kwm_Sender.php:58
+msgid "Great Documentation avaible in our website."
+msgstr ""
+
+#: inc/class_kwm_Sender.php:238
+#, php-format
+msgid "%s <a href=\"%s\" target=\"_blank\">Documentation</a>"
+msgstr ""
+
+#: inc/class_kwm_send_wallmessage.php:25
+msgid ""
+"The phone number must contain only digits together. It should not contain "
+"any other symbols such as (+) sign.  Instead  of  plus  sign,  please  put  "
+"(00)"
+msgstr ""
+
+#: inc/class_kwm_send_wallmessage.php:32
+msgid ""
+"API Config Not Set! First go to Wallmessage > Configs > WallMessage API tab, "
+"and configure WallMessage API key and API url."
+msgstr ""
+
+#: tpl/error.php:7
+#, php-format
+msgid ""
+"Set WallMessage API configuration first!<a href=\"%sadmin.php?"
+"page=wallmessage-configs&tab=wallmessageapi\"><span>Click Here!</span></a>"
+msgstr ""
+
+#: tpl/header.php:5
+msgid "Welcome to"
+msgstr ""
+
+#: tpl/header.php:7
+msgid "Advanced plugin to intergrate Whatsapp API and Woocommerce"
+msgstr ""
+
+#: tpl/left-menu.php:20
+msgid "Documentation"
+msgstr ""
+
+#: tpl/left-menu.php:21
+msgid "Plugin website"
+msgstr ""
+
+#: tpl/outbox.php:8
+msgid "Search"
+msgstr ""
+
+#: tpl/send-pm.php:42
+msgid "Number(s)"
+msgstr ""
+
+#: tpl/send-pm.php:44
+msgid "WooCommerce's Customers"
+msgstr ""
+
+#: tpl/send-pm.php:50
+#, php-format
+msgid "<b>%s</b> Customers have the mobile number."
+msgstr ""
+
+#: tpl/send-pm.php:57
+msgid "Separate the numbers with comma (,) or enter in each lines."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wallmessage.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "some description should go here. @TODO: Plugin description"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "wallmessage Group"
+msgstr ""
